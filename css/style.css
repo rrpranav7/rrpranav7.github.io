@@ -33,3 +33,26 @@ footer {
     background: #333;
     color: white;
 }
+
+#publications {
+    background-color: #f8f8f8; /* Light grey background */
+    padding: 20px;
+}
+
+#publications ul {
+    list-style: none; /* Removes the default list styling */
+    padding: 0;
+}
+
+#publications li {
+    margin-bottom: 15px; /* Adds space between list items */
+}
+
+#publications a {
+    color: #007bff; /* Sets the color of links, choose what fits your design */
+    text-decoration: none; /* Removes the underline from links */
+}
+
+#publications a:hover {
+    text-decoration: underline; /* Adds an underline on hover for better user experience */
+}
