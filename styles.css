@@ -37,8 +37,9 @@ section {
     text-align: justify;
 }
 
-#contact .contact-info span {
+contact .contact-info span {
     margin: 10px;
+    text-align: center;
 }
 
 contact .contact-info i.fa-linkedin {
