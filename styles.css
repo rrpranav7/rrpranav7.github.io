@@ -37,21 +37,21 @@ section {
     text-align: justify;
 }
 
-#contact ul {
+contact ul {
     list-style-type: none;
     padding: 0;
 }
 
-#contact ul li {
+contact ul li {
     margin: 10px 0;
 }
 
-#contact ul li a {
+contact ul li a {
     color: #333;
     text-decoration: none;
 }
 
-#contact ul li a:hover {
+contact ul li a:hover {
     text-decoration: underline;
 }
 
