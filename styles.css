@@ -41,16 +41,16 @@ section {
     margin: 10px;
 }
 
-#contact .contact-info i {
+contact .contact-info i.fa-linkedin {
     color: #0072b1; /* Color for LinkedIn icon */
     margin-right: 8px;
 }
 
-#contact .contact-info i.fa-envelope {
+contact .contact-info i.fa-envelope {
     color: #D44638; /* Color for Email icon (Gmail) */
 }
 
-#contact .contact-info i.fa-phone {
+contact .contact-info i.fa-phone {
     color: #34B7F1; /* Color for Phone icon */
 }
 
