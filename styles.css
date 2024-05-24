@@ -37,6 +37,23 @@ section {
     text-align: justify;
 }
 
+#contact .contact-info span {
+    margin: 10px;
+}
+
+#contact .contact-info i {
+    color: #0072b1; /* Color for LinkedIn icon */
+    margin-right: 8px;
+}
+
+#contact .contact-info i.fa-envelope {
+    color: #D44638; /* Color for Email icon (Gmail) */
+}
+
+#contact .contact-info i.fa-phone {
+    color: #34B7F1; /* Color for Phone icon */
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
