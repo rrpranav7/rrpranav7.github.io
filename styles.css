@@ -33,6 +33,28 @@ section {
     background: #fff;
 }
 
+.justified-text {
+    text-align: justify;
+}
+
+#contact ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#contact ul li {
+    margin: 10px 0;
+}
+
+#contact ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+#contact ul li a:hover {
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
