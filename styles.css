@@ -37,6 +37,10 @@ section {
     text-align: justify;
 }
 
+.center-title {
+    text-align: center;
+}
+
 #experience .experience-item {
     margin-bottom: 20px;
 }
