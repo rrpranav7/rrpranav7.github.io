@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -85,12 +89,4 @@ footer {
     padding: 10px 0;
     background: #333;
     color: #fff;
-}
-
-.center-content {
-    display: flex;
-    height: 100%;
-    justify-content: left;
-    align-items: center;
-    text-align: center;
 }
