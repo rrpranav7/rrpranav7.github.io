@@ -90,3 +90,13 @@ footer {
     background: #333;
     color: #fff;
 }
+
+.down-arrow {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid black; /* Adjust color as needed */
+    margin-left: 5px; /* Adjust spacing as needed */
+}
