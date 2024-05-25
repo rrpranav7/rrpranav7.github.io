@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to right, #FF5733, #FFC300);;
+    background: linear-gradient(to right, #FF5733, #FFC300);
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -87,6 +87,6 @@ contact .contact-info i.fa-phone {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333;
+    background: linear-gradient(to right, #FF5733, #FFC300);
     color: #fff;
 }
