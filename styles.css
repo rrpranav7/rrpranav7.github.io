@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
 }
 
@@ -88,5 +88,5 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: linear-gradient(to right, #FF5733, #FFC300);
-    color: #fff;
+    color: #000;
 }
