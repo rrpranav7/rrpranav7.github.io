@@ -37,6 +37,27 @@ section {
     text-align: justify;
 }
 
+#experience .experience-item {
+    margin-bottom: 20px;
+}
+
+#experience .experience-item h3 {
+    margin: 0;
+}
+
+#experience .experience-item p {
+    margin: 5px 0;
+}
+
+#experience .experience-item ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+#experience .experience-item ul li {
+    margin-bottom: 5px;
+}
+
 contact .contact-info span {
     margin: 10px;
     text-align: center;
