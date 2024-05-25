@@ -90,8 +90,7 @@ footer {
 .center-content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
-    min-height: 100vh;
     text-align: center;
 }
