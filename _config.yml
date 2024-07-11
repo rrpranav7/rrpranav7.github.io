@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pranav Ramesh / Site Title"
+title                    : "Pranav Ramesh"
 title_separator          : "-"
 name                     : &name "Pranav Ramesh"
 description              : &description "personal description"
-url                      : https://rrpranav7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rrpranav7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rrpranav7/rrpranav7.github.io"
 
@@ -22,8 +22,8 @@ repository               : "rrpranav7/rrpranav7.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Pranav Ramesh"
+  pronouns         : "He/Him" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
