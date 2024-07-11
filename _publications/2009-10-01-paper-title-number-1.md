@@ -5,8 +5,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-20
 venue: 'International Journal of Computing and Digital Systems (IJCDS)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://dx.doi.org/10.12785/ijcds/110151'
+paperurl: /files/IJCDS-110151-1570739088
+link: 'https://dx.doi.org/10.12785/ijcds/110151'
 citation: 'Sulthana A, R., & Ramesh, P. (2022). &quot;Predicting the import and export of commodities using support vector regression and long short-term prediction models.&quot; International Journal of Computing and Digital Systems, 11(1), 635–647'
 ---
 
