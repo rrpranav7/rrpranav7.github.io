@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "STA 141B"
+type: "STA 141A"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of California, Davis, Department of Statistics"
 date: 2023-12-15
