@@ -1,7 +1,7 @@
 ---
 title: "Predicting the import and export of commodities using Support Vector Regression and Long Short-Term prediction models"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: certifications
+permalink: /certifications/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-20
 venue: 'International Journal of Computing and Digital Systems (IJCDS)'
