@@ -12,3 +12,6 @@ I am a young researcher who has recently graduated with Masters specializing in 
 Currently seeking opportunities in Data Science and Machine Learning to apply my expertise and contribute to cutting edge projects. I am available to join immediately.
 
 **Research Interest**: Spatiotemporal Deep Learning, Time Series Analysis, Quantum Computing
+
+**Technical Skills** : Python (Qiskit, NumPy, Matplotlib, Pandas, Seaborn, Statsmodels, TensorFlow, Scikit-learn,
+Plotly), R, C++, Java
