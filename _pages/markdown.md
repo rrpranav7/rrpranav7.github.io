@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Esri Inc. 
-**Software Development Intern** \hfill Aug 2021 – Jan 2022
+**Software Development Intern** <span style="float: right;"> Aug 2021 – Jan 2022
 
 * Leveraged Python, Microsoft Azure, and Terraform to optimize data processing workflows, enhance accessibility
 of Mosaic Dataset for 1000’s of customers, provision critical resources, and conduct comprehensive regression
