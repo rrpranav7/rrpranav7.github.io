@@ -7,6 +7,21 @@ redirect_from:
   - /markdown.html
 ---
 
+## University of California
+**Research Assistant** <span style="float: right;"> Feb 2024 – Present
+
+* Predict the probability of countries paying back their debt using
+World Bank Debt Data, with "Credit Rating" as the response variable,
+and visualize common Multilateral and Bilateral Banks that provided
+the most debt.
+
+* Build and fine-tune a Python model to forecast the probability of
+repayment based on various debt parameters, and analyze the
+model's performance using loss and accuracy metrics.
+
+* Analyzing, Visualizing and Modeling another Water Quality Dataset
+using Time Series in Python.
+
 ## Esri Inc. 
 **Software Development Intern** <span style="float: right;"> Aug 2021 – Jan 2022
 
