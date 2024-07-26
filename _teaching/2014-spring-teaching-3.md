@@ -1,5 +1,5 @@
 ---
-title: "Professional Assistant"
+title: "Professional/Lab Assistant"
 collection: teaching
 type: "CS F211"
 permalink: /teaching/2014-spring-teaching-3
