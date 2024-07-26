@@ -10,6 +10,8 @@ redirect_from:
 ## University of California
 **Research Assistant** <span style="float: right;"> Feb 2024 – Present
 
+*Davis, CA, USA*
+
 * Predict the probability of countries paying back their debt using
 World Bank Debt Data, with "Credit Rating" as the response variable,
 and visualize common Multilateral and Bilateral Banks that provided
