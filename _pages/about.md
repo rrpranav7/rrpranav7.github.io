@@ -15,3 +15,31 @@ Currently seeking opportunities in Data Science and Machine Learning to apply my
 
 **Technical Skills** : Python (Qiskit, NumPy, Matplotlib, Pandas, Seaborn, Statsmodels, TensorFlow, Scikit-learn,
 Plotly), R, C++, Java
+
+Machine Learning — Optimization, Reinforcement, Supervised, Unsupervised
+|
+Python — TensorFlow, Keras, Seaborn, statsmodels, sklearn, PyTorch, numpy, pandas, matplotlib, OOP, Design Patterns
+|
+Deep Learning — Transformer Architecture (Auto-Regressive, Sequence-to-Sequence), LLM
+|
+Microsoft Azure — Kubernetes, Virtual Machines, Pipelines, Terraform
+|
+Time Series — ARIMA, LSTM
+|
+SQL
+|
+R markdown
+|
+Linux terminal — Ubuntu, Red Hat, Bash Script
+|
+SPSS
+|
+Latex
+|
+C++
+|
+Java
+|
+C
+|
+MATLAB
