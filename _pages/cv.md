@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academia CV"
+title: "Academia Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
