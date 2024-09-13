@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/Pranav_Ramesh_PhD_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Pranav_Ramesh_PhD_CV-2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my academia CV [here](/files/Pranav_Ramesh_PhD_CV.pdf).
+You can download a PDF copy of my academia CV [here](/files/Pranav_Ramesh_PhD_CV-2.pdf).
 
 # Professional Resume
 
