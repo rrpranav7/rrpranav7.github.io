@@ -9,7 +9,7 @@ redirect_from:
 
 <iframe src="/files/Pranav_Ramesh_PhD_CV-3.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my academia CV [here](/files/PhD Curriculum Vitae - Pranav Ramesh.pdf).
+You can download a PDF copy of my academia CV [here](/files/PhD Curriculum Vitae Pranav Ramesh.pdf).
 
 # Professional Resume
 
